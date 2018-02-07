@@ -68,3 +68,9 @@ class MyForm extends Component {
 <h2 align='center'>Development guidelines</h2>
 
 `TypeScript` support
+
+<h2 align='center'>Guidelines</h2>
+
+Component should be clear from `margin`, `padding`, `positioning` and `display`
+
+
